@@ -3,6 +3,6 @@ function setup() {
 }
 
 function draw() {
-    background(125, 125);
+    background(125, 5);
     ellipse(mouseX, mouseY, 50, 50);
 }
